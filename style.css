@@ -2,11 +2,12 @@
     
     height: 100vh;
     color: #FFFFFF;
-    /* background-image: url("images/background_1.png"); */
+    background-image: url("images/4.background_1.png"); 
     background-color: #1DA1F2;
     margin: 0%;
     padding:  0%;
     float: left;
+    text-align: left;
 }
 
 .row:after {
@@ -92,7 +93,8 @@ margin-bottom: -10px;
     background-color: white;
     color: white;
     text-align: center;
-    position: fixed;
+    /* position: fixed; */
+    height: 45px;
 
     
 
