@@ -387,3 +387,114 @@ body {
 /* .right-side{
     margin-right: 30px;
 } */
+
+
+.col-md-5{
+    background-color: white;
+    height: auto;
+    width: auto;
+    
+    
+
+}
+
+.middle-side{
+    position: relative;
+    right: 20px;
+
+}
+.mid-side-head{
+    padding-bottom: 10px; 
+    padding-top: 10px;
+   
+}
+.mid-side-head a {
+    padding-left: 10px;
+    padding-top: 10px;
+    color:#1DA1F2;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.mid-side-head a:active{
+    color: black;
+    text-decoration: none;
+}
+.bottom-border-mid {
+    border-bottom: #dfdfdf 1px solid;
+    
+    width: 107%;
+    
+    
+}
+
+
+.fix-pos{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 17px;
+    top:10px;
+   
+
+}
+
+.tweets-content{
+    margin: 0%;
+    padding: 0%;
+}
+
+.tweets-content span{
+    color: gray;
+    font-weight: normal;
+   
+
+}
+.profile-link{
+    
+    position: relative;
+    left: 20px;
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+    
+    
+   
+}
+
+.tweets-content a:hover{
+text-decoration: none ;
+}
+
+.post-link{
+    position: relative;
+    left: 74px;
+   
+    bottom: 20px;
+
+}
+
+.fa-chevron-circle-down{
+    position: relative;
+    bottom: 5px;
+    left: 190px;
+    
+}
+
+.lower-icon-tweet{
+    position: relative;
+bottom: 5px;
+    margin-left: 74px;
+
+}
+
+.space{
+    padding-right: 55px
+}
+
+.card{
+    margin-left: 60px;
+
+}
